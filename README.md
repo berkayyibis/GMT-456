@@ -1,8 +1,7 @@
 # GMT-456
 # SDLC_MODELS
 
-<p align="left"><img src="https://github.com/berkayyibis/GMT-456/blob/main/sdlc-models1.png" width="50%"></p>
-<p align="right"><img src="https://github.com/berkayyibis/GMT-456/blob/main/sdlc_models2.png" width="50%"></p>
+
 
 <img src = "https://github.com/berkayyibis/GMT-456/blob/main/sdlc-models1.png" width ="500" /> <img src ="https://github.com/berkayyibis/GMT-456/blob/main/sdlc_models2.png" width ="500" />
 
