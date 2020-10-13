@@ -3,7 +3,7 @@
 
 
 
-<img src = "https://github.com/berkayyibis/GMT-456/blob/main/sdlc-models1.png" width ="500" /> <img src ="https://github.com/berkayyibis/GMT-456/blob/main/sdlc_models2.png" width ="500" />
+<img src = "https://github.com/berkayyibis/GMT-456/blob/main/sdlc-models1.png" width ="500" /> <img src ="https://github.com/berkayyibis/GMT-456/blob/main/sdlc_models2.png" width ="700" height = "300" />
 
 # 1. Waterfall Model
 Waterfall is the oldest and most straightforward of the structured SDLC methodologies — finish one phase, then move on to the next. No going back. Each stage relies on information from the previous stage and has its own project plan. Waterfall is easy to understand and simple to manage.
