@@ -1,6 +1,8 @@
 # GMT-456
 # SDLC_MODELS
 
+<p align="center"><img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fmelsatar.blog%2F2012%2F03%2F15%2Fsoftware-development-life-cycle-models-and-methodologies%2F&psig=AOvVaw2VW0me0DP_cTJKtyOCcN-D&ust=1602704187541000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjVpMCosuwCFQAAAAAdAAAAABAO" width="50%"></p>
+
 # 1. Waterfall Model
 Waterfall is the oldest and most straightforward of the structured SDLC methodologies — finish one phase, then move on to the next. No going back. Each stage relies on information from the previous stage and has its own project plan. Waterfall is easy to understand and simple to manage.
 
